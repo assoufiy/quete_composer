@@ -1,0 +1,16 @@
+{
+    "name": "younesform/quete_composer",
+    "description": "Projet_quete_composer",
+    "require": {
+        "swiftmailer/swiftmailer": "^6.1",
+        "ehime/hello-world": "^1.0"
+    },
+  "autoload":
+    {
+      "psr-4":
+      {
+         "": "src/"
+      }
+    }
+
+}
